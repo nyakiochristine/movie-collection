@@ -51,3 +51,5 @@ function populateGenreFilter(movies) {
 }
 
 loadMovies();
+
+
